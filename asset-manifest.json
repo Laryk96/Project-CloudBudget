@@ -1,13 +1,33 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/Project-CloudBudget/static/css/main.701db17a.css",
+    "main.js": "/Project-CloudBudget/static/js/main.8dd3cc10.js",
+    "static/media/main.png": "/Project-CloudBudget/static/media/main.bf5327ec685ccd26ca23.png",
+    "static/media/Video_bg.jpg": "/Project-CloudBudget/static/media/Video_bg.9a3ec7d54e6f18bf7597.jpg",
+    "static/media/AccentVideo_bg.jpg": "/Project-CloudBudget/static/media/AccentVideo_bg.05700f89bda55298b5c6.jpg",
+    "static/media/BgRight.jpg": "/Project-CloudBudget/static/media/BgRight.6eb691e9d96fd63aca6f.jpg",
+    "static/media/Video_bgRight.jpg": "/Project-CloudBudget/static/media/Video_bgRight.9959c61836b9e0d4b78f.jpg",
+    "static/media/BgCenter.jpg": "/Project-CloudBudget/static/media/BgCenter.de5b5b940d16674381f3.jpg",
+    "static/media/BgLeft.jpg": "/Project-CloudBudget/static/media/BgLeft.950f67617c7a8d75b3c8.jpg",
+    "static/media/Video_bgLeft.jpg": "/Project-CloudBudget/static/media/Video_bgLeft.5f78498026e83612105a.jpg",
+    "static/media/support.png": "/Project-CloudBudget/static/media/support.7d91e919f1910c61a8bb.png",
+    "static/media/ion-logo-apple-appstore.svg": "/Project-CloudBudget/static/media/ion-logo-apple-appstore.2934b3a38f7074077dea29446ede12df.svg",
+    "static/media/iwwa-file-csv.svg": "/Project-CloudBudget/static/media/iwwa-file-csv.c363b989c459d5dfb9a08d4e2f906563.svg",
+    "static/media/Group.svg": "/Project-CloudBudget/static/media/Group.6f0e2a9e4291dadf63e39b0a2e2c77cb.svg",
+    "static/media/ant-design_cloud-download-outline.svg": "/Project-CloudBudget/static/media/ant-design_cloud-download-outline.fc61551a09ff02e05bdfd0575c0398ea.svg",
+    "static/media/Vector.svg": "/Project-CloudBudget/static/media/Vector.65562cc11b152de8a55c50ec3ff12901.svg",
+    "index.html": "/Project-CloudBudget/index.html",
+    "static/media/ion-logo-google-playstore.svg": "/Project-CloudBudget/static/media/ion-logo-google-playstore.7a7ee214c307350bff3eb7f4201c46fe.svg",
+    "static/media/linki.svg": "/Project-CloudBudget/static/media/linki.7141ae193d36897cf34ba3aba47bc172.svg",
+    "static/media/twitter.svg": "/Project-CloudBudget/static/media/twitter.0fe6c893d0325c2e7e1ae10f0d9919cb.svg",
+    "static/media/logo.svg": "/Project-CloudBudget/static/media/logo.5c97deec73eda9caa2d6e9fe43987013.svg",
+    "static/media/face.svg": "/Project-CloudBudget/static/media/face.1097a9e3c5c37e977043e51c2a89b0a5.svg",
+    "static/media/simple-icons_windows.svg": "/Project-CloudBudget/static/media/simple-icons_windows.be75352bae65bb0f561b21d1bb4b5f88.svg",
+    "main.701db17a.css.map": "/Project-CloudBudget/static/css/main.701db17a.css.map",
+    "main.8dd3cc10.js.map": "/Project-CloudBudget/static/js/main.8dd3cc10.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.701db17a.css",
+    "static/js/main.8dd3cc10.js"
   ]
 }
