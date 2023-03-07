@@ -8,7 +8,8 @@ const NavList = styled.ul`
 const Header = styled.header`
   position: absolute;
   padding: 30px 0;
-
+  left: 50%;
+  transform: translateX(-50%);
   /* background: linear-gradient(
     90deg,
     rgba(213, 32, 71, 0.8) 0%,
