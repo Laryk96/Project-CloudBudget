@@ -1,6 +1,4 @@
 import styled from '@emotion/styled';
-import videoLeft from 'images/Video_bgLeft.jpg';
-import videoRight from 'images/Video_bgRight.jpg';
 
 const SectionsAccent = styled.section`
   padding-top: 94px;
