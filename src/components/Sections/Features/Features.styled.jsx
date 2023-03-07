@@ -37,7 +37,7 @@ const SubTitle = styled.h3`
 `;
 
 const Text = styled.p`
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 
   font-weight: 400;
   font-size: 12px;
@@ -59,7 +59,6 @@ const Board = styled.div`
   top: 60%;
   left: 29px;
   width: 293px;
-  height: 198px;
   padding: 33px 32px 25px 32px;
 
   text-align: center;
