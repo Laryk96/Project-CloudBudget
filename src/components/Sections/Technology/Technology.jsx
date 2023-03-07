@@ -28,7 +28,7 @@ const Technology = () => {
               <Icon
                 src={cloud}
                 alt="Cloud"
-                style={{ transform: 'translate(-15px)' }}
+                style={{ transform: 'translate(-15px,-10px)' }}
               />
             </Wrapper>
             <SubTitle>Cloud Storage</SubTitle>
